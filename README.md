@@ -9,4 +9,3 @@ Models Pharaoh, Pyramid, Obelisk, Horus pieces, their rotations/moves, and laser
 - Laser mechanics (`Laser.java`) with reflections/blocks
 - Turn-based play; basic GUI (`KhetGameGUI.java`)
 
-## Project structure
